@@ -1,5 +1,7 @@
 
 import WordCountChecker from './Components/WordCountChecker';
+import './App.css'
+
 
 
 function App() {
